@@ -150,6 +150,17 @@ a {
 h5 {
     font-size: 24px;
     color: white;
+    font-weight: bold;
+}
+
+/* footer */
+
+.footer {
+    background-color: #1f2937;
+    height: 120px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 
